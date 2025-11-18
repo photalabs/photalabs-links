@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2CVM8W3R8V.com.photalabs.phota",
+        "paths": ["*"]
+      },
+      {
+        "appID": "2CVM8W3R8V.com.photalabs.phota.debug",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
