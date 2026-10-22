@@ -3,11 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "2CVM8W3R8V.com.photalabs.phota",
+        "appID": "2CVM8W3R8V.com.photalabs.ios",
         "paths": ["*"]
       },
       {
-        "appID": "2CVM8W3R8V.com.photalabs.phota.debug",
+        "appID": "2CVM8W3R8V.com.photalabs.ios.debug",
         "paths": ["*"]
       }
     ]
